@@ -8,12 +8,13 @@ body {
     background-color: rgb(236, 236, 230);
 }
 
+
+
 #profile-image {
     border-radius: 100%;
 }
 
 #container {
     width: 50%;
-    border: solid black 1px;
     margin: 0 auto;
 }

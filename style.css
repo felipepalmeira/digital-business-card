@@ -1,0 +1,19 @@
+:root {
+    font-family: 'Red Hat Display', sans-serif;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(236, 236, 230);
+}
+
+
+#profile-image {
+    border-radius: 100%;
+}
+
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
